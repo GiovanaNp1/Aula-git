@@ -11,3 +11,4 @@ Olá esse é meu primeiro readme e aula de Git e Github
 `git commit -m "mensagem"`: mensagem que gostaria de salvar\
 `git config --local user.email "email"`: Configurar seu repositorio com seu email\
 `git push`: enviar seu codigo para o github
+`git remote`: especifica o local que você quer enviar seu codigo
